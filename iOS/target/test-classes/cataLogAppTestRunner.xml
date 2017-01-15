@@ -10,10 +10,8 @@
 
     <test name="Go to Home page" preserve-order="true">
         <classes>
-            <class name="iPhone.HomePage"/>
+            <!--<class name="iPhone.ButtonTest"/>-->
+            <class name="iPhone.TextFieldsTest"/>
         </classes>
     </test>
-
-    <!-- Test1 specific params are defined below this-->
-    <parameter name="" value=""/>
 </suite>
