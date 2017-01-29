@@ -5,5 +5,4 @@ package ui.ButtonsPage;
  */
 public class Buttons {
 
-
 }

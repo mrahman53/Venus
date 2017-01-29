@@ -11,7 +11,10 @@
     <test name="Go to Home page" preserve-order="true">
         <classes>
             <!--<class name="iPhone.ButtonTest"/>-->
+            <!--<class name="iPhone.ControlsTest"/>-->
             <class name="iPhone.TextFieldsTest"/>
+            <!--<class name="iPhone.SearchBar"/>-->
+            <!--<class name="iPhone.TextViewTest"/>-->
         </classes>
     </test>
 </suite>

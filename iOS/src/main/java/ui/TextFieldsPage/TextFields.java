@@ -20,7 +20,7 @@ public class TextFields extends Base{
         typeByXpath("//UIAApplication[1]/UIAWindow[2]/UIATableView[1]/UIATableCell[7]", "Secure");
     }
 
-    public void writeTextToFields()throws InterruptedException{
+    public void writeTextToTheFields()throws InterruptedException{
         typeOnUiTextField();
         typeOnUiTextFieldRounded();
         typeOnUiTextFieldSecure();

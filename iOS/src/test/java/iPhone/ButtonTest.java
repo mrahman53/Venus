@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * Created by mrahman on 9/5/15.
  */
-public class ButtonTest extends NavigateUi {
+public class ButtonTest extends Base {
 
     @Test
     public void navigate()throws InterruptedException{
